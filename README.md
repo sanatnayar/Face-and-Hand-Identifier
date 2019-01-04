@@ -7,3 +7,8 @@ Made Using OpenCV, NumPy and Python to detect particular faces and number of fin
 
 ## Finger Counter:
 ![](https://github.com/sanatnayar/Facial-and-Hand-Identifier/blob/master/Finger_Example.png)
+
+## Face Detection:
+Coming Soon!!!
+
+Adapted from Udemy Course: https://www.udemy.com/python-for-computer-vision-with-opencv-and-deep-learning/
